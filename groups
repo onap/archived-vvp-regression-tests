@@ -1,4 +1,5 @@
 # UUID                                                                               	Group Name
 #
+4a789358376f9a796a538aea04dc6b4336bbf119                                             	saml/onap-gerrit-vvp-regression-tests-committers
 daebbf523be390041a1a9c0e340a6d833aae5043                                             	GitHub Replication
 ldap:cn=onap-gerrit-vvp-regression-tests-committers,ou=Groups,dc=freestandards,dc=org	ldap/onap-gerrit-vvp-regression-tests-committers
